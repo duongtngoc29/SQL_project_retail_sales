@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Database**: `retail_sales_db`
+**Database**: `sql_project_retail_sales`
 
 This project is to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
 
@@ -18,7 +18,7 @@ This project is to explore, clean, and analyze retail sales data. The project in
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `retail_sales_db`.
+- **Database Creation**: The project starts by creating a database named `sql_project_retail_sales`.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ### 2. Data Exploration & Cleaning
